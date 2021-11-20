@@ -1,7 +1,7 @@
 # My Read
 ## how to use 
-to start app just type : npm start
-to install app just type : npm install
+to start app just type : npm start\
+to install app dependencies just type : npm install
 ## content
 app use to search books and but it a status like you reading or want to read or currently reading 
 and if you done from reading u change the status and u can also remove it from table of books
